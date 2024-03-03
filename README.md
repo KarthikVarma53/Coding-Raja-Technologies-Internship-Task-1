@@ -1,0 +1,6 @@
+Task - 1 (Online Resume Builder) 
+![Screenshot 2024-03-03 154633](https://github.com/KarthikVarma53/Coding-Raja-Technologies-Internship-Task-1/assets/139999418/3db190ef-6f51-4546-b5ac-a91ae116033e)
+![Screenshot 2024-03-03 154649](https://github.com/KarthikVarma53/Coding-Raja-Technologies-Internship-Task-1/assets/139999418/2e1234ee-5ea6-48e3-97bf-f5f813ff324b)
+![Screenshot 2024-03-03 154708](https://github.com/KarthikVarma53/Coding-Raja-Technologies-Internship-Task-1/assets/139999418/6680ed81-9c05-4a4f-9df0-bbeee3fecf6d)
+![Screenshot 2024-03-03 154725](https://github.com/KarthikVarma53/Coding-Raja-Technologies-Internship-Task-1/assets/139999418/51942da6-b9b9-412f-a65b-3df4549fea2c)
+![Screenshot 2024-03-03 154746](https://github.com/KarthikVarma53/Coding-Raja-Technologies-Internship-Task-1/assets/139999418/469bb189-4cbb-41bb-818b-583fa5803b45)
